@@ -10,7 +10,6 @@
 - ✅ Multi-Head Attention (MHA)
 - ✅ Multi-Query Attention (MQA)
 - ✅ Grouped-Query Attention
-- ✅ 动态掩码机制（因果掩码/填充掩码）  
 
 ### 归一化层对比实现
 对CV场景和NLP场景的Norm方式都做了实现，后续会更新相关技术博客。
