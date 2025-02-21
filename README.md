@@ -1,0 +1,2 @@
+# Rookie-Transformer-Tutorial
+本项目通过纯手写实现Transformer核心组件及训练推理代码，尽可能少调用现成深度学习框架的高级封装接口，旨在为学习者提供"白盒级"的Transformer实现参考。代码包含注释，适合希望深入理解Transformer机制的新手开发者。
